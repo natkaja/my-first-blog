@@ -25,7 +25,7 @@ SECRET_KEY = 'p*o68pzt%^c*3mt@)q1&u5wt^#*z10udf*bcxqy2omk4rrvo=&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['natka.pythonanywhere.com']
 
 
 # Application definition
